@@ -1,0 +1,15 @@
+title: MAIGA Logan – Portfolio
+description: Étudiant à Epitech passioné par le développement web et applications
+markdown: kramdown
+theme: minima
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: project
