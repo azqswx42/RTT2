@@ -7,7 +7,7 @@ title: Contact
 
 Vous pouvez me joindre via :
 
-- Email : *(à compléter)*
+- Email : logan.maiga@epitech.eu
 - GitHub : [azqswx42](https://github.com/azqswx42)
 
 N’hésitez pas à me contacter pour :
