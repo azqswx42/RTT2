@@ -3,6 +3,8 @@ description: "Étudiant à Epitech passioné par le développement web et applic
 markdown: kramdown
 theme: minima
 
+baseurl: "/RTT2"
+
 collections:
   projects:
     output: true
